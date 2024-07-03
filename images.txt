@@ -1,3 +1,4 @@
 #ubuntu22.04
 ubuntu:22.04
 nvidia/cuda:12.5.0-base-ubuntu22.04
+pytorch/torchserve:0.11.0-gpu
